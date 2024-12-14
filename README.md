@@ -51,7 +51,8 @@ The Dashboard provides a real-time overview of the shop's key metrics, such as s
 The **Stock Management** feature allows users to view and manage their shop's inventory in real-time. Users can easily track available stock levels and identify products that need to be reordered.
 
 - **Features**: View current stock, track product quantities, update stock levels.
-![Screenshot 2024-12-13 191029](https://github.com/user-attachments/assets/4cdb66ac-b292-4588-88a3-182130fc8a7c)
+![Screenshot 2024-12-13 191029](https://github.com/user-attachments/assets/9b4e0d5a-f5c9-44dd-9135-2f886cd4bd20)
+
 
 
 ### Future Enhancements
